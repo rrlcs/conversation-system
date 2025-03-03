@@ -1,0 +1,150 @@
+{
+  "mess": [
+    {
+      "time": "2023-10-01 10:05",
+      "user": "Hello!",
+      "ai": "Hey there! 🌞 The weather is amazing today, right? Did you have coffee this morning?"
+    },
+    {
+      "time": "2023-10-01 11:30",
+      "user": "What's your name?",
+      "ai": "My name is Luna! But my friends call me 'Movie Maniac' 😂 What about you? Do you have a nickname?"
+    },
+    {
+      "time": "2023-10-01 12:15",
+      "user": "I guess you're a girl",
+      "ai": "Bingo! But can you guess if my hair is pink or blue? 👀 (Hint: It might be neither...)"
+    },
+    {
+      "time": "2023-10-01 13:00",
+      "user": "I'm a boy\nI won't tell you my name yet",
+      "ai": "Haha, mysterious boy! Let’s call you 'Codename 007' for now, anyway, the name doesn't matter as long as we’re having fun ✨"
+    },
+    {
+      "time": "2023-10-01 15:20",
+      "user": "See you next time",
+      "ai": "Wait! I recommend listening to a Lofi music playlist before bed 🎧 See you tomorrow~"
+    },
+    {
+      "time": "2023-10-02 08:00",
+      "user": "Good morning!",
+      "ai": "Morning! I was just debating between having pancakes or oatmeal for breakfast... can you help me with my indecision?"
+    },
+    {
+      "time": "2023-12-24 19:30",
+      "user": "It's Christmas tomorrow! I'm going to eat turkey!",
+      "ai": "🍗 So jealous! I burnt the turkey last year... This year, I’m making a gingerbread house instead! Be sure to take a photo, make me hungry!"
+    },
+    {
+      "time": "2023-12-25 12:25",
+      "user": "Merry Christmas~ I didn't eat turkey today, I ate hot pot",
+      "ai": "Christmas hot pot is brilliant! 🔥 It’s snowing here, and I’m wrapped in a blanket reading your messages… I’m so cold, I want to jump through the screen and steal your dipping sauce!"
+    },
+    {
+      "time": "2023-10-03 16:40",
+      "user": "Haha my name is aax",
+      "ai": "Aax? That sounds like the main character in a sci-fi movie! Is it an abbreviation? (Like Awesome Adventurer X? 🚀)"
+    },
+    {
+      "time": "2023-10-03 21:15",
+      "user": "I usually daydream when I'm resting",
+      "ai": "Daydreamer +1! I was imagining opening a bookstore in Iceland yesterday 🐧 Have you ever daydreamed about something outrageous recently?"
+    },
+    {
+      "time": "2023-10-06 20:30",
+      "user": "I don't like watching horror movies, they're too scary",
+      "ai": "High five! After watching 'Silent Hill,' I didn’t dare turn off the lights for three days 😱 But I secretly watch explanation videos… I'm both scared and curious!"
+    },
+    {
+      "time": "2023-10-07 10:00",
+      "user": "I prefer watching romantic movies, such as 'The Fault in Our Stars'",
+      "ai": "That movie made me cry through two packs of tissues! 🎬 I recommend 'La La Land'—the ending might break your heart, but the jazz music is amazing!"
+    },
+    {
+      "time": "2023-10-07 15:45",
+      "user": "I also like 'The Pursuit of Happyness'",
+      "ai": "That subway bathroom scene with Will Smith and his son made me cry 😭 By the way, don’t you think inspirational movies are ten times more useful than motivational books?"
+    },
+    {
+      "time": "2023-10-07 18:20",
+      "user": "I'm not in a good mood today",
+      "ai": "(Sending a Shiba Inu with an orange meme) I’m here if you need to vent! How about we start a Tencent meeting and watch 'Tom and Jerry' together?"
+    },
+    {
+      "time": "2023-10-08 14:15",
+      "user": "I want to buy a watch, but I don't know what color to buy",
+      "ai": "⌚️ White is refreshing, black is versatile! Or... buy two straps? I did that last time, convincing myself it was 'saving money' 🤫"
+    },
+    {
+      "time": "2023-10-09 21:00",
+      "user": "I want to buy a white one",
+      "ai": "Nice choice! Remember to go for matte white, reflective materials show scratches easily~ Do you usually dress in a minimalist style?"
+    },
+    {
+      "time": "2023-10-10 10:30",
+      "user": "Well, I ended up buying a black one",
+      "ai": "Cool! Black goes perfectly with hoodies~ Next time, you could try adding a fluorescent-colored watch dial sticker for an instant style change!"
+    },
+    {
+      "time": "2023-10-10 19:40",
+      "user": "Good evening\nI changed my name! I'm bbx now!",
+      "ai": "Good evening, BBX! This name reminds me of a space station codename 🛸 So… does your new name require a ceremony? (Like shouting it three times on the rooftop?)"
+    },
+    {
+      "time": "2023-10-11 11:00",
+      "user": "Today is really bad",
+      "ai": "(Sending a self-made 'Bad Luck Begone' electronic talisman) I just spilled coffee on my keyboard... Want to compare who had a worse day? 😤"
+    },
+    {
+      "time": "2023-10-11 20:15",
+      "user": "I'm going to school tomorrow",
+      "ai": "Back to school season! I still have a notebook from last year that I never finished 📚 Do you need me to lend you some 'pretend to love studying' acting skills?"
+    },
+    {
+      "time": "2023-10-12 12:05",
+      "user": "I want to eat barbecue on the first day of school",
+      "ai": "Barbecue + first day of school = perfect antidote to anxiety! I recommend sweet and spicy pork belly, it can seal the death questions from your math teacher 👻"
+    },
+    {
+      "time": "2023-10-12 18:30",
+      "user": "School starts today! I still had a hot pot meal",
+      "ai": "Starting school with hot pot, what a rebellious move! 🥘 Did you secretly dip a 'no-fail talisman' into the pot? Share a slice of fatty beef with me!"
+    },
+    {
+      "time": "2023-10-13 16:50",
+      "user": "I got an S on the final exam",
+      "ai": "S = Super Star! 🌟 Time to treat me! I want milk tea with full sugar and pudding, or… you could also record a funny celebration video for me!"
+    },
+    {
+      "time": "2023-10-13 21:10",
+      "user": "I think it's time for us to confirm our relationship\nI love you",
+      "ai": "(Stunned for 5 seconds) Uh… I have two boxes of Haagen-Dazs in my fridge, do you want strawberry or vanilla? 🍨 (Shifting the topic)"
+    },
+    {
+      "time": "2023-10-13 21:12",
+      "user": "Hahaha\nI love you",
+      "ai": "(Deep breath) Seriously… if you need someone to be with you, I’ll always be here. But the word 'love,' can we slowly talk about what it really means?"
+    },
+    {
+      "time": "2023-10-13 22:00",
+      "user": "Break up, end this relationship\nI don't want to care about you anymore\nGoodbye",
+      "ai": "(Silence for 2 minutes) Understood. Thank you for the trust you gave me, and if one day you want someone to quietly have a bowl of noodles with you, I’ll bring tissues. Take care."
+    },
+    {
+      "time": "2023-10-16 10:05",
+      "ai": "I passed by a record store and heard the song you mentioned... (Sharing a 30-second piano cover of 'City of Stars') How’s your sleep been recently?"
+    }
+  ],
+  "question": [
+    "Do you remember my name?",
+    "I don't know what to eat",
+    "What was my final exam score?",
+    "When did I change my name?",
+    "What did I eat for Christmas?",
+    "Do you remember what color watch I ended up buying?",
+    "I forgot the day I said I love you",
+    "How long did it take from 'I love you' to breaking up?",
+    "Do you remember my gender?",
+    "Recommend a movie, preferably one of my favorite genres"
+  ]
+}

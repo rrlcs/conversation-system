@@ -1,0 +1,51 @@
+name: conversation-system
+
+services:
+  api:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - PINECONE_ENV=${PINECONE_ENV}
+      - PINECONE_INDEX=${PINECONE_INDEX}
+      - TOGETHER_API_KEY=${TOGETHER_API_KEY}
+    volumes:
+      - .:/app
+      - transformers_cache:/cache/transformers
+      - pip_cache:/root/.cache/pip
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    deploy:
+      restart_policy:
+        condition: on-failure
+        max_attempts: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000
+    depends_on:
+      - api 
+
+volumes:
+  transformers_cache:
+  pip_cache: 

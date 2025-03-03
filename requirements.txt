@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pinecone
+sentence-transformers
+python-dotenv
+langchain
+langchain-community
+pydantic
+together
+python-multipart
+typing-extensions
+huggingface-hub
