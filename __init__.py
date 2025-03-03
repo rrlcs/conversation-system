@@ -1,6 +1,6 @@
-from converse_ai.cursorai_conversation_agent import ConversationAgent
-from converse_ai.services.vector_search import VectorSearchService
-from converse_ai.utils.cache import VectorCache, BatchProcessor
+from conversation_agent import ConversationAgent
+from services.vector_search import VectorSearchService
+from utils.cache import VectorCache, BatchProcessor
 
 __version__ = "0.1.0"
 

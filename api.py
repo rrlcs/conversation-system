@@ -4,8 +4,8 @@ from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 from pydantic import BaseModel, Field
 from typing import Dict, Any, Optional, List
-# from converse_ai.cursorai_conversation_agent import ConversationAgent
-from cursorai_conversation_agent import ConversationAgent
+# from converse_ai.conversation_agent import ConversationAgent
+from conversation_agent import ConversationAgent
 import os
 from dotenv import load_dotenv
 import traceback
